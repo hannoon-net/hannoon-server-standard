@@ -1,1 +1,5 @@
-
+<item>
+  <version>1.0.0.0</version>
+  <url>https://github.com/hannoon-net/hannoon-server-standard/releases/latest/download/HannoonServer_Standard_Setup.exe</url>
+  <mandatory>false</mandatory>
+</item>
